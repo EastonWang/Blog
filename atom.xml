@@ -70,13 +70,13 @@ plt.show()
     </summary>
     
     
-      <category term="python" scheme="https://yizhong-wang.com/blog/tags/python/"/>
-    
       <category term="tools" scheme="https://yizhong-wang.com/blog/tags/tools/"/>
     
-      <category term="nlp" scheme="https://yizhong-wang.com/blog/tags/nlp/"/>
-    
       <category term="machine learning" scheme="https://yizhong-wang.com/blog/tags/machine-learning/"/>
+    
+      <category term="python" scheme="https://yizhong-wang.com/blog/tags/python/"/>
+    
+      <category term="nlp" scheme="https://yizhong-wang.com/blog/tags/nlp/"/>
     
   </entry>
   
@@ -114,9 +114,9 @@ plt.show()
     </summary>
     
     
-      <category term="python" scheme="https://yizhong-wang.com/blog/tags/python/"/>
-    
       <category term="tools" scheme="https://yizhong-wang.com/blog/tags/tools/"/>
+    
+      <category term="python" scheme="https://yizhong-wang.com/blog/tags/python/"/>
     
       <category term="nlp" scheme="https://yizhong-wang.com/blog/tags/nlp/"/>
     
@@ -237,9 +237,9 @@ plt.show()
     </summary>
     
     
-      <category term="tools" scheme="https://yizhong-wang.com/blog/tags/tools/"/>
-    
       <category term="Latex" scheme="https://yizhong-wang.com/blog/tags/Latex/"/>
+    
+      <category term="tools" scheme="https://yizhong-wang.com/blog/tags/tools/"/>
     
   </entry>
   
@@ -293,9 +293,9 @@ plt.show()
     </summary>
     
     
-      <category term="tech" scheme="https://yizhong-wang.com/blog/tags/tech/"/>
-    
       <category term="GFW" scheme="https://yizhong-wang.com/blog/tags/GFW/"/>
+    
+      <category term="tech" scheme="https://yizhong-wang.com/blog/tags/tech/"/>
     
   </entry>
   
@@ -325,9 +325,9 @@ plt.show()
     </summary>
     
     
-      <category term="engadget" scheme="https://yizhong-wang.com/blog/tags/engadget/"/>
-    
       <category term="tech" scheme="https://yizhong-wang.com/blog/tags/tech/"/>
+    
+      <category term="engadget" scheme="https://yizhong-wang.com/blog/tags/engadget/"/>
     
       <category term="happy" scheme="https://yizhong-wang.com/blog/tags/happy/"/>
     
