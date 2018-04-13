@@ -72,11 +72,11 @@ plt.show()
     
       <category term="tools" scheme="https://yizhong-wang.com/blog/tags/tools/"/>
     
-      <category term="machine learning" scheme="https://yizhong-wang.com/blog/tags/machine-learning/"/>
-    
       <category term="python" scheme="https://yizhong-wang.com/blog/tags/python/"/>
     
       <category term="nlp" scheme="https://yizhong-wang.com/blog/tags/nlp/"/>
+    
+      <category term="machine learning" scheme="https://yizhong-wang.com/blog/tags/machine-learning/"/>
     
   </entry>
   
@@ -293,9 +293,9 @@ plt.show()
     </summary>
     
     
-      <category term="GFW" scheme="https://yizhong-wang.com/blog/tags/GFW/"/>
-    
       <category term="tech" scheme="https://yizhong-wang.com/blog/tags/tech/"/>
+    
+      <category term="GFW" scheme="https://yizhong-wang.com/blog/tags/GFW/"/>
     
   </entry>
   
@@ -325,9 +325,9 @@ plt.show()
     </summary>
     
     
-      <category term="tech" scheme="https://yizhong-wang.com/blog/tags/tech/"/>
-    
       <category term="engadget" scheme="https://yizhong-wang.com/blog/tags/engadget/"/>
+    
+      <category term="tech" scheme="https://yizhong-wang.com/blog/tags/tech/"/>
     
       <category term="happy" scheme="https://yizhong-wang.com/blog/tags/happy/"/>
     
